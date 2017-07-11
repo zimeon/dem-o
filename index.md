@@ -1,4 +1,4 @@
-# dem-o: A deomstration ontology
+# dem-o: A demostration ontology
 
 ## Current version (2.0)
 
@@ -7,6 +7,6 @@
 
 ## Prior versions
 
-| 1.1 | [docs](1.1/dem-o.html) | [ontology](1.1/dem-o.rdf) |
-| 1.0 | [docs](1.0/dem-o.html) | [ontology](1.0/dem-o.rdf) |
+| 1.1 | [documentation](1.1/dem-o.html) | [ontology](1.1/dem-o.rdf) |
+| 1.0 | [documentation](1.0/dem-o.html) | [ontology](1.0/dem-o.rdf) |
 
